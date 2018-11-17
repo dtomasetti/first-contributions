@@ -4,6 +4,7 @@
 - [Ian Smith](https://github.com/ismith-xyz)
 - [Bag0ul](https://github.com/Bag0ul)
 - [Gabriel Colson](https://github.com/gabrielcolson)
+- [Deanna Tomasetti](https://github.com/dtomasetti)
 - [Ivan Boldyrev](https://github.com/iboldurev)
 - [Prakhar Saxena](https://github.com/sxnaprkhr)
 - [Dan Mauro](https://github.com/dmauro22)
